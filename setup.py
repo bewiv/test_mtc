@@ -6,7 +6,7 @@ setup(
     author="Marouane",
     author_email="marouane@example.com",
     description="A small example package",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/bewiv/test_mtc.git",
     packages=find_packages(),
     License="MIT",
 )
