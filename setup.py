@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="regression_metrics",
+    name="metrics_cr",
     version="0.0.1",
     author="Marouane",
     author_email="marouane@example.com",
